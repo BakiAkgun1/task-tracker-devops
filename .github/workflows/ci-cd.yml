@@ -39,4 +39,3 @@ jobs:
         tags: |
           bakiakgun/task-tracker-frontend:latest
           bakiakgun/task-tracker-frontend:2.0.0
-
