@@ -18,7 +18,8 @@ Every push to the `master` branch triggers a GitHub Actions workflow that:
 
 - Checks out code and submodules  
 - Builds Docker images for both frontend and backend  
-- Pushes images to Docker Hub  
+- Pushes images to Docker Hub
+- **docker-compose up**
 
 Make sure your repository has `DOCKER_USERNAME` and `DOCKER_PASSWORD` secrets configured.
 
