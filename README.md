@@ -9,6 +9,9 @@ This repository manages the DevOps setup for the Task Tracker application, inclu
 - **.github/workflows**: CI/CD pipeline using GitHub Actions
 - **docker-compose.yml**: Multi-container setup for backend and frontend
 
+
+![image](https://github.com/user-attachments/assets/38aedd6e-0383-4737-a552-34a291c3e666)
+
 ## 🔄 CI/CD Workflow
 
 Every push to the `master` branch triggers a GitHub Actions workflow that:
